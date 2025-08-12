@@ -10,7 +10,7 @@ It was created **solely for learning purposes** to practice **JavaScript DOM man
 
 ## Notes
 - **Non-responsive** — designed only for desktop view.
-- Not intended as a portfolio project, purely for JavaScript practice.
+- purely for JavaScript practice.
 
 ## Technologies Used
 - HTML5
